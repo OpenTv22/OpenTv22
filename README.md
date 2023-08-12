@@ -1,4 +1,6 @@
-### Hi there 👋
+### 欢迎来到OpenTV项目主页 👋
+## 这将是一个完全开放的播放平台
+## 基于独创的通信协议实现了超高的隐私保护
 
 <!--
 **OpenTv22/OpenTv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
