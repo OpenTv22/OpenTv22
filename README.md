@@ -1,6 +1,6 @@
 ## 👋欢迎来到OpenTV项目 
-Windows版-> [点击下载](https://github.com/OpenTv22/OpenTV-windows/releases/download/1001001/opentv.zip)   &nbsp; &nbsp; &nbsp; &nbsp;
-安卓版-> [点击下载](https://github.com/OpenTv22/OpenTV-android/releases/download/1001001/opentv-1.1.1.apk)  
+Windows版-> [点击下载](https://github.com/OpenTv22/OpenTV-windows/releases/download/10000004/opentv.zip)   &nbsp; &nbsp; &nbsp; &nbsp;
+安卓版-> [点击下载](https://github.com/OpenTv22/OpenTV-android/releases/download/10000004/opentv.apk)  
 
 ### 😄OpenTV是完全开放的播放平台
  **任何人**可以建立自己的频道，发布视频;   
